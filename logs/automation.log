@@ -1,0 +1,35 @@
+21:18:54.184 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/aayam/opencart-master/mastersuite.xml
+
+21:24:31.365 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/aayam/opencart-master/mastersuite.xml"
+21:24:34.210 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/aayam/opencart-master/mastersuite.xml"
+21:30:56.986 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/aayam/opencart-master/mastersuite.xml"
+21:30:59.968 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/aayam/opencart-master/mastersuite.xml"
+21:31:50.004 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/aayam/opencart-master/mastersuite.xml"
+21:31:50.070 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/aayam/opencart-master/mastersuite.xml
+
+21:34:27.366 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/aayam/opencart-master/mastersuite.xml"
+21:34:27.431 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/aayam/opencart-master/mastersuite.xml
+
+21:37:17.107 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/aayam/opencart-master/mastersuite.xml"
+21:37:17.170 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/aayam/opencart-master/mastersuite.xml
+
+21:38:43.101 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/aayam/opencart-master/mastersuite.xml"
+21:38:43.167 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/aayam/opencart-master/mastersuite.xml
+
+21:41:09.162 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/aayam/opencart-master/mastersuite.xml"
+21:41:09.222 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/aayam/opencart-master/mastersuite.xml
+
+21:42:25.390 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/aayam/opencart-master/mastersuite.xml"
+21:42:25.456 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/aayam/opencart-master/mastersuite.xml
+
+21:43:44.195 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/aayam/Library/Caches/JetBrains/IntelliJIdea2023.3/temp-testng-customsuite.xml"
+21:43:44.287 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/aayam/Library/Caches/JetBrains/IntelliJIdea2023.3/temp-testng-customsuite.xml
+
